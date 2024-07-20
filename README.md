@@ -48,30 +48,31 @@ Before analyzing the Playstore Apps dataset, it is essential to clean and prepar
 A schema was created using the cleaned dataset for playstore apps and queries in MySQL Workbench was used to answer the following the problem statements
 
 **Problem Statements-**
-1.What is the total number of apps available?
-2.Number of Categories present in the dataset
--All categories with the number of apps in the dataset
--Which are the top 10 highest rated apps in the given available dataset?
--What is the average rating of all apps?
--What is the total number of reviews for all apps?
--Which app has the most reviews?
--How many apps are there in each category?
--Apps with More Than 1 Million Installs
--What is the average size of the apps?
--How many paid apps and how many free apps are there?
--Which apps have a rating above 4.5?
--What is the distribution of content ratings among the apps?
--What are the different genres of apps and their counts?
--What is the average rating per category?
--What are the total sales from paid apps?
--What are the top 5 genres by average rating?
--Which apps have reviews containing the word 'excellent'?
--What are the top 5 most expensive apps?
--Which apps have a rating below 2.0?
--Which are the top 5 most installed apps in the 'Games' category?
--Which apps have no reviews?
--What is the total number of free apps in each category?
--What is the average rating of free apps compared to paid apps?
+
+1. What is the total number of apps available?
+2. Number of Categories present in the dataset
+3. All categories with the number of apps in the dataset
+4. Which are the top 10 highest rated apps in the given available dataset?
+5. What is the average rating of all apps?
+6. What is the total number of reviews for all apps?
+7. Which app has the most reviews?
+8. How many apps are there in each category?
+9. Apps with More Than 1 Million Installs
+10. What is the average size of the apps?
+11. How many paid apps and how many free apps are there?
+12. Which apps have a rating above 4.5?
+13. What is the distribution of content ratings among the apps?
+14. What are the different genres of apps and their counts?
+15. What is the average rating per category?
+16. What are the total sales from paid apps?
+17. What are the top 5 genres by average rating?
+18. Which apps have reviews containing the word 'excellent'?
+19. What are the top 5 most expensive apps?
+20. Which apps have a rating below 2.0?
+21. Which are the top 5 most installed apps in the 'Games' category?
+22. Which apps have no reviews?
+23. What is the total number of free apps in each category?
+24. What is the average rating of free apps compared to paid apps?
 
 ## **Data Visualization (Power BI)**
 
