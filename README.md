@@ -47,9 +47,9 @@ Before analyzing the Playstore Apps dataset, it is essential to clean and prepar
 ## 3. **Insights using MySQL**:
 A schema was created using the cleaned dataset for playstore apps and queries in MySQL Workbench was used to answer the following the problem statements
 
-## Problem Statements-
--What is the total number of apps available?
--Number of Categories present in the dataset
+**Problem Statements-**
+1.What is the total number of apps available?
+2.Number of Categories present in the dataset
 -All categories with the number of apps in the dataset
 -Which are the top 10 highest rated apps in the given available dataset?
 -What is the average rating of all apps?
