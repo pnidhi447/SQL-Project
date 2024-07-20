@@ -76,7 +76,16 @@ A schema was created using the cleaned dataset for playstore apps and queries in
 
 ## **Data Visualization (Power BI)**
 
+  ![Playstore Dashboard](Dashboard/Playstore.png)
+
 ## **4.Analyzing and interpreting data:**
+ 1. There are total 33 categories and 9636 applications in the given dataset with an overall average rating of 4.2 and an average application size of 19.38 MB.
+ 2. The largest app on the Play Store is ‘Hungry Shark Evolution’ belonging to ‘Game’ category with 95.37 MB.
+ 3. For content rating, majority of the applications fall under ‘Everyone’ followed by ‘Teen’ and ‘Mature17+’.
+ 4. Majority of the apps, 92.06% are listed as free while only 7.94% being of paid type.
+ 5. ‘Family’ followed by ‘Game’ have the highest number of paid apps.
+ 6. ‘Family’ is the top category with the highest number of applications followed by ‘Game’ while ‘Beauty’ and ‘Comics’ being the lowest.
+ 7. ‘Events’ is the top category with the highest average rating of 4.45 followed by ‘Education’ and ‘Art and design’.
 
 
 
